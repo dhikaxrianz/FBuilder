@@ -82,21 +82,21 @@ sleep 2
 echo " "
 echo "\033[37;1m[ =================== ]"
 sleep 1
-echo " """
+echo "1. """
 
 bash12 = Tools
 
 bash13 = """ "
 echo "\033[37;1m[ =================== ]"
 sleep 1
-echo " """
+echo "2. """
 
 bash14 = Tools2
 
 bash15 = """ "
 echo "\033[37;1m[ =================== ]"
 sleep 1
-echo " """
+echo "3. """
 
 bash16 = Tools3
 
